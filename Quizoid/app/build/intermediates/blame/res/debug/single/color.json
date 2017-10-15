@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/color/abc_tint_btn_checkable.xml"
+    }
+]

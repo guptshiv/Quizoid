@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:5:5-7:58
+	android:protectionLevel
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:7:9-55
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:6:9-53
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:9:22-74
+application
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:11:5-35:19
+MERGED from [com.android.support:design:25.3.1] /home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shivam/.android/build-cache/8436dd3d27ebbff43a4d86d87e941b49e7cf8288/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shivam/.android/build-cache/2219798af2a33c26970bd6ac1e27d69a2ca937d6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/shivam/.android/build-cache/825eabe261560ed56d9c6550e1ae99357e6196f8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/shivam/.android/build-cache/a8c75c75eb7b2d8cc6fa2b2d1ae0b110a282afd3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shivam/.android/build-cache/9060e62e8bc7bce584c378eb6c02dba1e3cc4ee8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shivam/.android/build-cache/d787915f209dd6d5ecac8793433d33237c4d32ff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shivam/.android/build-cache/99cd0a923d3d41215d2c9eb380196dfbd4baee54/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shivam/.android/build-cache/ddd4864841c89275f8c1057faddb03be6948ce98/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/shivam/.android/build-cache/8c325980e6faef0bbd0303831c6ad93ab0623e8a/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:13:9-39
+	android:theme
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.shubhigupta.quizoidnew.MainActivity
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.shubhigupta.quizoidnew.LoginMain
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:24:9-47
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:24:19-44
+activity#com.example.shubhigupta.quizoidnew.AppIntro
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:25:19-43
+activity#com.example.shubhigupta.quizoidnew.QuestionsListPage
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:26:19-52
+activity#com.example.shubhigupta.quizoidnew.Register_activity
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:27:9-55
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:27:19-52
+activity#com.example.shubhigupta.quizoidnew.QuestionsSubCategories.SublistActivity
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:28:9-76
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:28:19-73
+activity#com.example.shubhigupta.quizoidnew.LastActivity
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:29:19-47
+activity#com.example.shubhigupta.quizoidnew.GameStartActivity
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:30:9-55
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:30:19-52
+activity#com.example.shubhigupta.quizoidnew.QuizActivity
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:31:19-47
+activity#com.example.shubhigupta.quizoidnew.HighScoreBoard
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:32:19-49
+activity#com.example.shubhigupta.quizoidnew.questions_new
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:33:9-51
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:33:19-48
+activity#com.example.shubhigupta.quizoidnew.HowToPlay
+ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:34:9-56
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml:34:19-44
+uses-sdk
+INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shivam/.android/build-cache/8436dd3d27ebbff43a4d86d87e941b49e7cf8288/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shivam/.android/build-cache/2219798af2a33c26970bd6ac1e27d69a2ca937d6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/shivam/.android/build-cache/8332706ae1134e08f2e6d28f66781e75f1b90fe5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/shivam/.android/build-cache/825eabe261560ed56d9c6550e1ae99357e6196f8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/shivam/.android/build-cache/a8c75c75eb7b2d8cc6fa2b2d1ae0b110a282afd3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shivam/.android/build-cache/9060e62e8bc7bce584c378eb6c02dba1e3cc4ee8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shivam/.android/build-cache/d787915f209dd6d5ecac8793433d33237c4d32ff/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shivam/.android/build-cache/99cd0a923d3d41215d2c9eb380196dfbd4baee54/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shivam/.android/build-cache/ddd4864841c89275f8c1057faddb03be6948ce98/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/shivam/.android/build-cache/8c325980e6faef0bbd0303831c6ad93ab0623e8a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Quizoid/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shivam/.android/build-cache/8436dd3d27ebbff43a4d86d87e941b49e7cf8288/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shivam/.android/build-cache/2219798af2a33c26970bd6ac1e27d69a2ca937d6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/shivam/.android/build-cache/8332706ae1134e08f2e6d28f66781e75f1b90fe5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/shivam/.android/build-cache/825eabe261560ed56d9c6550e1ae99357e6196f8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/shivam/.android/build-cache/a8c75c75eb7b2d8cc6fa2b2d1ae0b110a282afd3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shivam/.android/build-cache/9060e62e8bc7bce584c378eb6c02dba1e3cc4ee8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shivam/.android/build-cache/d787915f209dd6d5ecac8793433d33237c4d32ff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shivam/.android/build-cache/99cd0a923d3d41215d2c9eb380196dfbd4baee54/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shivam/.android/build-cache/ddd4864841c89275f8c1057faddb03be6948ce98/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/shivam/.android/build-cache/8c325980e6faef0bbd0303831c6ad93ab0623e8a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/AndroidManifest.xml:26:9-47

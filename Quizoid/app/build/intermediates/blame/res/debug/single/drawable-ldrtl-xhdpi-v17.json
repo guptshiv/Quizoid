@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

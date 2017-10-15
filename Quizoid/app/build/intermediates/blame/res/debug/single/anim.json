@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/zoomoutlogo.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/anim/zoomoutlogo.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/rotate.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/zoom_in.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/get_started.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/anim/get_started.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim/zoom.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/anim/zoom.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/unnamed.png",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/mipmap-xxhdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/logo3.png",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/mipmap-xxhdpi/logo3.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/logo.jpg",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/mipmap-xxhdpi/logo.jpg"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/shivam/AndroidStudioProjects/Quizoid/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/shivam/.android/build-cache/40283838f0a230cc7221ec801d7a2884e88af98a/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

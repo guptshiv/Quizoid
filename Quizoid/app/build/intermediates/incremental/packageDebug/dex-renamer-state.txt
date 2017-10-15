@@ -1,0 +1,7 @@
+#Sun Oct 15 21:30:32 IST 2017
+base.0=/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f5b1dad66c092444248b5e95a74fc6921dc2f728
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a7759301b2d01c2d3422d540256d07385a4ab6f/classes.dex
+base.1=/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a7759301b2d01c2d3422d540256d07385a4ab6f
+file.0=/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f5b1dad66c092444248b5e95a74fc6921dc2f728/classes.dex

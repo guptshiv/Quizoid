@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Quizoid/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/shivam/.android/build-cache/1604f89041d8198407cdd186433f6f049f7a1e70/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]
